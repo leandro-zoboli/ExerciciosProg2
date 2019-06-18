@@ -1,4 +1,4 @@
-package Lista11_BuscaArvoreBinaria;
+package Algoritmos_4_3;
 
 public class ArvoreBinariaAbstract<T> {
 

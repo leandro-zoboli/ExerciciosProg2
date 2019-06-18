@@ -1,4 +1,4 @@
-package Exercicios2_2_4_Prog2;
+package Prog_2_2_4;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

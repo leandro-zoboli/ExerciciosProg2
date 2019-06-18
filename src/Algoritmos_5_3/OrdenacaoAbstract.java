@@ -1,4 +1,4 @@
-package Algoritmos_Lista_13;
+package Algoritmos_5_3;
 
 public abstract class OrdenacaoAbstract<T extends Comparable> {
 

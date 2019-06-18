@@ -1,4 +1,4 @@
-package Exericios2_1_Prog2;
+package Prog_2_1;
 
 import java.io.BufferedInputStream;
 import java.io.DataInputStream;

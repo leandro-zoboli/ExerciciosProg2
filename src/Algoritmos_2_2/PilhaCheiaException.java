@@ -1,4 +1,4 @@
-package Exercicios2_2_Algoritmos;
+package Algoritmos_2_2;
 
 
 public class PilhaCheiaException extends RuntimeException{

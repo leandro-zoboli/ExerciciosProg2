@@ -1,4 +1,4 @@
-package Prog_Lista_12;
+package Prog_4_5;
 
 public class XBurguer extends XSalada {
     
