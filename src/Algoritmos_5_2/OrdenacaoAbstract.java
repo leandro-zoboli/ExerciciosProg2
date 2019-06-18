@@ -1,6 +1,6 @@
 package Algoritmos_5_2;
 
-public abstract class OrdenacaoAbstarct<T extends Comparable> {
+public abstract class OrdenacaoAbstract<T extends Comparable> {
 
     private T[] info;
 
@@ -13,10 +13,10 @@ public abstract class OrdenacaoAbstarct<T extends Comparable> {
     }
 
     public void trocar(int a, int b) {
-
+        T aux = info[a];
+        info[a] = info[b];
+        info[b] = aux;
     }
 
-    public void ordenar() {
-
-    }
+    public abstract void ordenar();
 }
